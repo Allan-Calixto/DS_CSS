@@ -1,0 +1,22 @@
+body{
+    background:lime;
+}
+
+p{
+    font-size: 35px;
+    font-family: Arial Black;
+    color: white;
+}
+
+p.formato{
+    color: red;
+    font-size: 15px;
+    font-family: 'Courier New';
+}
+.centro{
+    text-align: center;
+}
+
+h2, h3, h4{
+    color: blue;
+}
